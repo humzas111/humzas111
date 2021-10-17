@@ -20,6 +20,9 @@ I'm Humza Sohail, and I'm a programmer. I really enjoy learning languages and fr
   <li>
   HTML/CSS
   </li>
+   <li>
+  WordPress
+  </li>
   <li>
   Python
   </li>
