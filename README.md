@@ -4,16 +4,44 @@
 
 I'm Humza Sohail, and I'm a programmer. I really enjoy learning languages and frameworks like React, as well as work in WordPress. 
 
-
+<hr />
 
 <h3>Skills: </h3>
-- MERN
-- React
-- HTML
-- CSS
-- JAVASCRIPT
-- JAVA
-- PYTHON
+<ui>
+  <li>
+    MERN
+  </li>
+   <li>
+  React
+   </li>
+    <li>
+  JavaScript
+  </li>
+  <li>
+  HTML/CSS
+  </li>
+  <li>
+  Python
+  </li>
+</ui>
+<hr />
+
+<h3>Live Projects: </h3>
+<ui>
+  <li>
+    <a href="https://chat-application-jsm.netlify.app/"> Chat App </a>
+  </li>
+   <li>
+  <a href="https://kb-sarkar.com/"> KB-Sarkar Co </a>
+   </li>
+    <li>
+  <a href="https://www.needatour.com/"> Need a Tour </a>
+  </li>
+</ui>
+
+<hr />
+
+<h3> You can connect me here: </h3>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/humzas111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/humzasohail//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/humza.xohail/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/humzasohail._//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/HumzaX)  
