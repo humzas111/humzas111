@@ -32,7 +32,7 @@ I'm Humza Sohail, and I'm a programmer. I really enjoy learning languages and fr
 <h3>Live Projects: </h3>
 <ui>
   <li>
-    <a href="https://chat-application-jsm.netlify.app/"> Chat App </a>
+    <a href="https://uni-chat-application.netlify.app/"> Chat App </a>
   </li>
    <li>
   <a href="https://kb-sarkar.com/"> KB-Sarkar Co </a>
