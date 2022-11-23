@@ -2,29 +2,30 @@
 
 <h1> Humza Sohail </h1>
 
-I'm Humza Sohail, and I'm a programmer. I really enjoy learning languages and frameworks like React, as well as work in WordPress. 
-
 <hr />
 
 <h3>Skills: </h3>
 <ui>
   <li>
-    MERN
+    Java
   </li>
    <li>
-  React
+  Spring Framework
    </li>
     <li>
-  JavaScript
+  React Js
   </li>
   <li>
-  HTML/CSS
+  SQL
   </li>
    <li>
-  WordPress
+  JavaServerPages (JSP)
   </li>
   <li>
-  Python
+  J2EE Application Development
+  </li>
+  <li>
+  JavaScript
   </li>
 </ui>
 <hr />
